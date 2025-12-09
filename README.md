@@ -5,16 +5,16 @@ This project is built for learning backend + frontend integration, database conn
 
 🚀 Tech Stack Used
 -->Frontend (React)
-React.js
-Axios
-React Router
+React.js,
+Axios,
+React Router,
 CSS / Tailwind (if used)
 
 -->Backend (Node + Express)
-Node.js
-Express.js
-MySQL (via Sequelize ORM)
-bcryptjs
+Node.js,
+Express.js,
+MySQL (via Sequelize ORM),
+bcryptjs,
 JSON Web Tokens (JWT)
 
 -->Database
