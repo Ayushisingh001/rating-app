@@ -21,4 +21,11 @@ JSON Web Tokens (JWT)
 MySQL Workbench
 Sequelize ORM
 
-
+-->Running the Project
+1. Backend :
+   cd backend
+   npm install
+   npm run dev
+2.cd frontend/rating-app :
+npm install
+npm start
